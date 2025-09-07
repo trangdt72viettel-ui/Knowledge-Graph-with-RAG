@@ -1,0 +1,6 @@
+langchain
+neo4j
+faiss-cpu
+fastapi
+uvicorn
+openai

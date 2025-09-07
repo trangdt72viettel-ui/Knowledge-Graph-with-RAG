@@ -1,0 +1,30 @@
+# Môi trường ảo
+venv/
+.env
+*.env
+
+# File log
+*.log
+
+# Python cache / biên dịch
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode / IDE config
+.vscode/
+.idea/
+
+# Dữ liệu tạm / database
+*.sqlite3
+*.db
+*.tmp
+
+# Output / build
+dist/
+build/
+*.egg-info/
